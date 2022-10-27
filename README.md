@@ -23,7 +23,8 @@ few examples.
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = "40">    HTML
 <br>
-- <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "40">CSS<br>
+- <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "40">CSS
+<br>
 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLSpwzZT-chc2GLCrIJ8weQdfLEZvLv6Tfg&usqp=CAU" width = "40">  JavaScript
 
