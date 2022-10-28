@@ -3,8 +3,10 @@
     background-image: url("../icons/img1.jpg");
     background-size: cover;
     height: 1000px;
+    width: 100%;
 
 }
+
 
 #abc {
     width: 100%;
@@ -93,11 +95,7 @@ nav ul li a {
 
 }
 
-.body {
-    margin: 0px 0px 0px 0px;
-    padding: 0;
 
-}
 
 .after {
     /* vertical-align: top; */
@@ -250,11 +248,6 @@ nav ul li a {
 
 
 
-.body {
-    margin: 0px 0px 0px 0px;
-    padding: 0;
-
-}
 
 .contain {
     height: 1000px;
@@ -273,9 +266,6 @@ nav ul li a {
     padding: 0px;
     margin: 0px; */
 }
-
-.box {}
-
 
 
 #second {
@@ -407,4 +397,14 @@ nav ul li a {
     backdrop-filter: blur(10px);
     border-radius: 50px;
     width: 750px;
+}
+
+.body {
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+
+}
+
+html {
+    background-color: rgb(12, 14, 23);
 }
